@@ -1,3 +1,13 @@
-# data_science_pvpit
+# College Project - PVPIT
 
-This is a repository where I store all my college datascience projects. Let's learn DS and analyse Data.
+This is a repository where I store all my college projects. 
+
+# Contents:
+1. Third Year(T.E):
+Artificial Intelligence
+Data Science
+Cloud Computing
+Web Tecgnology
+2. B.E.:
+Wait.....
+
