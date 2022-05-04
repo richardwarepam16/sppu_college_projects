@@ -1,4 +1,4 @@
-# College Project - PVPIT
+# College Project 
 
 This is a repository where I store all my college projects. 
 
